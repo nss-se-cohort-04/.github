@@ -36,7 +36,7 @@ Since reviews are such an important part of learning this craft your instructors
 try and review as many PR that arenn't in the a,b categories mentioned above like normal daily excercises/ tries etc.
 but cant guarantee will be able to review all of them all the time consistently.
 
-
+### [How do I invite a group mate as a collaborator to my repo?](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository#inviting-a-team-or-person)
 
 ### [How do I give feedback?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request?tool=webui)
 
@@ -52,4 +52,3 @@ We will do a single round of reviews. Once you address feedback from the groupma
 
 ### When you should expect instructor reviews?
 Your instructor will communicate by when will have all submissions reviewed. If They do not communicate this ask!
-
