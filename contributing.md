@@ -40,6 +40,7 @@ but cant guarantee will be able to review all of them all the time consistently.
 Since students are getting reviews at each milestone from groupmates and merging the work as they go for each building task we need a way for all the changes from all tasks in a single big PR that your instructors will review.
 
 Here is how you open the final PR for the project: 
+  [Same instructions in video format](https://www.youtube.com/watch?v=6-GJIolLKZc)
 
 - As you are working on the project at each checkpoint push your changes and have a PR reviewed by your peers then MERGE to `exercise`
 - Once you are fully done with the project 
