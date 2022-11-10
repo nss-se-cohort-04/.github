@@ -36,6 +36,27 @@ Since reviews are such an important part of learning this craft your instructors
 try and review as many PR that arenn't in the a,b categories mentioned above like normal daily excercises/ tries etc.
 but cant guarantee will be able to review all of them all the time consistently.
 
+### How do I open the final PR for unit project including all building tasks to be reviewed by the instructors? 
+Since students are getting reviews at each milestone from groupmates and merging the work as they go for each building task we need a way for all the changes from all tasks in a single big PR that your instructors will review.
+
+Here is how you open the final PR for the project: 
+
+- As you are working on the project at each checkpoint push your changes and have a PR reviewed by your peers then MERGE to `exercise`
+- Once you are fully done with the project 
+- go to github.com 
+- look at the `excercise` branch
+- click on 'commit'
+- Click the <> diamond squares of the VERY FIRST COMMIT by github-classroom[bot]  
+- In the branch switch dropdown and type `main`
+- click the link "Create branch: main from `617bde06` "
+- click on pull requests then the green `New pull request`
+- Select base `main` <- `exersice` then `Create pull request`
+- Make sure all you commits from all tasks are present 
+- fill out your description template / make sure your tests are passing 
+- tag both instructors for review 
+
+
+
 ### [How do I invite a group mate as a collaborator to my repo?](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository#inviting-a-team-or-person)
 
 ### [How do I give feedback?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request?tool=webui)
