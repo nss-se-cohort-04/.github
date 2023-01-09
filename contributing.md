@@ -9,6 +9,7 @@ code and create a feature branch (most likely need to append `-feature` like `{o
 - Fill out the PR template
 - Jokes are great and encouraged in slack and during class time. Please keep them out of PR's/ commit messages. Commits are 
 part of documentation.
+- Please make sure your [PR description](https://www.pullrequest.com/blog/writing-a-great-pull-request-description/) explains the task/work/feature/bug.
 
 ## How do I get feedback on my Pull Requests? 
 
@@ -19,11 +20,11 @@ part of documentation.
 - The goal is to spread the review evenly across the class
 - Alternate which group mate you ask for review
 
-2 Your instructors [@gcziprusz](https://github.com/gcziprusz) and [@rtillies](https://github.com/rtillies) will post solution branches to excercise in slack after the fact.
+2 Your instructors [@gcziprusz](https://github.com/gcziprusz) and [@jody](https://github.com/ProbablyJody) will post solution branches to excercise in slack after the fact.
 - You should compare your work to the solution to learn if you were going in the right direction or 
 look for possible alternatives.
 
-3 Your instructors [@gcziprusz](https://github.com/gcziprusz) and [@rtillies](https://github.com/rtillies) will review every submission for: 
+3 Your instructors [@gcziprusz](https://github.com/gcziprusz) and [@jody](https://github.com/ProbablyJody) will review every submission for: 
 - a) Comprehensive coding assignments
 - b) Unit projects (at the end of the unit)
 
