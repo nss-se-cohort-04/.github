@@ -74,5 +74,6 @@ This is a great learning opportunity for both the author and the reviewer. Make 
 We will do a single round of reviews. Once you address feedback from the groupmate or in case of Comprehensives and end of unit Project instructor. Your PR is ready to be merged.
 
 ### When you should expect instructor reviews?
-Your instructor will review your comprehensives and assessments 5 business days after the submission deadline. 
-Your instructor will review your project 10 business days after the submission deadline.
+**Comprehensives and assessments** will be reviewed within 5 business days after the submission deadline. 
+**Projects** will get in-depth review within 10 business days after the submission deadline.
+**Daily exercises and other coding challenge** solutions will be released after the class concludes for the day. We will start the next day with a 20 minute review of the exercise from the previous day. 5-10 minutes of the review should be spent individually comparing the solution to your own work. The rest of the time will be spent discussing the solution and attempts.
