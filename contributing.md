@@ -1,5 +1,6 @@
 # Contribution guidelines reviews and more
 
+
 ## How do I open a good pull request?
 - Follow the instruction in [canvas](https://nss.instructure.com/) to checkout the 
 code and create a feature branch (most likely need to append `-feature` like `{original_branch_name}-feature`
