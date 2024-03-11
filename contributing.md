@@ -70,14 +70,14 @@ Here is how you open the final PR for the project:
 
 ### Question you should ask yourself when reviewing a PR
 #### Code Style and Formatting
-_ Are there consistent indentation, naming conventions, and code structure aka does the gradle checkstyle task pass?
-_ Is the code clear and concise with meaningful variable names and comments?
-_ Are all editor-specific or other local metadata files excluded from Git by adding them to .gitignore?
-_ Have all API keys or other sensitive information been excluded from the source code?
-_ Have relevant documentation updates been made, including Javadoc comments and README files PR description and title?
-_ Is it clear what changes are introduced? What bugs are fixed? If any new features added?
-_ Is it easy to understand the code?
-_ Did the author include all relevant context and informatiomn on how to test the code in the Pull request?
+- Are there consistent indentation, naming conventions, and code structure aka does the gradle checkstyle task pass?
+- Is the code clear and concise with meaningful variable names and comments?
+- Are all editor-specific or other local metadata files excluded from Git by adding them to .gitignore?
+- Have all API keys or other sensitive information been excluded from the source code?
+- Have relevant documentation updates been made, including Javadoc comments and README files PR description and title?
+- Is it clear what changes are introduced? What bugs are fixed? If any new features added?
+- Is it easy to understand the code?
+- Did the author include all relevant context and informatiomn on how to test the code in the Pull request?
 #### Functionality
 - Does the proposed change implement the intended functionality, does it compile and run on the reviewers machine locally?
 - Have various scenarios been tested to identify potential bugs or edge cases?
